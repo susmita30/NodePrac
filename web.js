@@ -1,3 +1,5 @@
+//checking if git push origin master pushes to master or local branch
+
 //Change for new branch my-branch
 
 
